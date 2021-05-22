@@ -25,7 +25,7 @@ Inspired by [awesome-pyhton](https://github.com/vinta/awesome-python).
  
 ## Official resources
 
-* [Ox Console](https://www.doornik.com/download.html/) - The latest console version of Ox.
+* [Ox Console](https://www.doornik.com/download.html) - The latest console version of Ox.
 * [Ox Documentation](https://www.doornik.com/ox/) - The official documentation.
 * [Ox Packages](https://www.doornik.com/download.html#oxpack) Ox packages that Jurgen Doornik maintains or host.
 
